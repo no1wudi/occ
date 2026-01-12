@@ -60,5 +60,14 @@
         "Z_AI_MODE": "ZHIPU"
       }
     },
+    "playwright": {
+      "type": "local",
+      "command": [
+        "npx",
+        "@playwright/mcp@latest",
+        "--headless"
+      ],
+      "enabled": false
+    }
   }
 }
