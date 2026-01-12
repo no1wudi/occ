@@ -5,6 +5,7 @@
   "share": "disabled",
   "tui": {},
   "username": "code",
+  "small_model": "zhipuai-coding-plan/glm-4.5-flash",
   "disabled_providers": ["moonshotai", "minimax", "zai", "zai-coding-plan", "zhipuai", "opencode"],
   "provider": {
     "minimax-cn": {
